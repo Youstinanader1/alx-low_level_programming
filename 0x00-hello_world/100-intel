@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -S -masm=intrl $CFILE -o 'echo $CFILE | cut -d. -fl' .s
