@@ -4,7 +4,8 @@
  *
  *Description:main-Prints out a string to stdout.
  * 
- *Return:Always0(Success)
+ *Return:Always0(Success).
+ *
 */
 int main(void)
 {
